@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .app {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #999;
+  }
+  
